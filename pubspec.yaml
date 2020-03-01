@@ -1,8 +1,7 @@
-name: date_range
+name: date_range_common
 description: DateRange class for the Date Range Picker package (the point is to allow to use the same data type between AngularDart and Flutter)
-version: 0.0.1
-author: 'Gaspard Merten <gaspard.mp.work@gmail.com>'
-homepage: ''
+version: 0.1.0
+homepage: 'https://github.com/GaspardMerten/date_range'
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
